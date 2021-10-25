@@ -28,7 +28,7 @@ h1 {
     width: 6%;
 }
 
-img {
+.me {
     border: 7px solid #3f301d;
 }
 
@@ -44,3 +44,12 @@ li, .email {
     margin-right: 300px;
     margin-left: 300px;
 }
+
+.qrcode {
+    text-align: center;
+}
+
+.linkedin {
+    text-align: center;
+}
+
